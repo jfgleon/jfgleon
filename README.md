@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Juan]
 
-<!--
-**jfgleon/jfgleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de [Desarrollo de Software] | 💻 Apasionado por la tecnología | 🚀 Aprendiendo cada día
 
-Here are some ideas to get you started:
+Bienvenido(a) a mi perfil de GitHub 😊  
+Soy un estudiante interesado en el mundo del desarrollo de software, la programación y la innovación tecnológica.  
+Aquí comparto proyectos, ejercicios y experimentos que realizo mientras aprendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 Actualmente estoy aprendiendo
+
+- Programación orientada a objetos  
+- Desarrollo web (HTML, CSS, JavaScript)  
+- Uso de Git y GitHub para control de versiones  
+- Fundamentos de bases de datos  
+## 🎯 Mis objetivos
+
+- 💡 Mejorar mis habilidades de programación  
+- 🤝 Colaborar en proyectos open source  
+- 📚 Aprender nuevas tecnologías  
+- 🌍 Crear proyectos que aporten valor real  
+## 📫 Cómo contactarme
+
+- ✉️ Email: [jfleon.3@sudamericano.edu.ec](jfleon.3@sudamericano.edu.ec)  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+
+---
+
+⭐️ *Gracias por visitar mi perfil. ¡Sigue aprendiendo y creando!*
