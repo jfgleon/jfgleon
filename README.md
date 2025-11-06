@@ -22,7 +22,7 @@ Aquí comparto proyectos, ejercicios y experimentos que realizo mientras aprendo
 ## 📫 Cómo contactarme
 
 - ✉️ Email: [jfleon.3@sudamericano.edu.ec](jfleon.3@sudamericano.edu.ec)  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+
 
 ---
 
